@@ -2,9 +2,37 @@ body {
   background-color: rgb(243, 253, 243);
 }
 
-h1{
-    background-color: rgb(214, 86, 107);
-    color: rgb(141, 75, 202);
-    text-align: center;
+h1 {
+    background-color: rgb(209, 52, 183);
+    color: black;
+    text-align: left;
+    font-size: 90px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2 {
+    color: rebeccapurple;
+    text-align: left;
+    padding: 45px;
+    font-size: 65px;
+}
+
+h3 {
+    color: rgb(88, 197, 240);
+    padding: 45px;
+    font-size: 65px;
+}
+
+h4 {
+    color: rgb(110, 36, 36);
+    padding: 45px;
+    font-size: 65px;
+}
+
+li {
+    font-size: 40px;
+}
+
+img {
+    width: 500px;
 }
